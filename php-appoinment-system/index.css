@@ -1,0 +1,23 @@
+#profile{
+    
+    border-radius: 50%;
+    border:solid thin white ;
+    width:10%;
+    height: 10%;
+    margin:10px;
+}
+
+.box{
+    width:320px;
+    padding:10px;
+    border:1px solid grey;
+    margin:0;
+    height: 110px;
+    border-style: dotted solid double dashed;
+    display: flex;
+}
+
+input{
+    text-align: center;
+    height:10%;
+}
